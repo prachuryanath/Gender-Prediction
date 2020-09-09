@@ -8,6 +8,8 @@ The video of the prediction can be watched in my linkedin profile.
 ### Linkedin Post : https://www.linkedin.com/posts/prachurya-nath-5a26b5189_machinelearning-deeplearning-udemy-activity-6695224856201502720-hecw
 
 # New Update
-I applied a transfer model named Inception V3 upon the same dataset. I learnt it on the Course 2, Convolutional Neural Networks in Tensflow of the Tensorflow Specialisation in Coursera. Here, data augmentation and dropout process is also applied getting a validation accuracy slightly better which can be seen in the following plots
+I applied a transfer model named Inception V3 upon the same dataset. I learnt it on the Course 2, Convolutional Neural Networks in Tensflow of the Tensorflow Specialisation in Coursera. Here, data augmentation and dropout process is also applied getting a validation accuracy slightly better which can be seen in the following plots.
+
+
 ![Accuracy](https://github.com/prachuryanath/Gender-Prediction/blob/master/transfer.png)
 ![Loss](https://github.com/prachuryanath/Gender-Prediction/blob/master/transfer2.png)
